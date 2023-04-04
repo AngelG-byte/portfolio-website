@@ -20,8 +20,8 @@ const App = () => {
     <main className='main'>
       <Home />
       <About />
-      <Work />
       <Skills />
+      <Work />
       {/* <Services /> */}
       <Qualification />
 
